@@ -10,7 +10,7 @@
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://roozbehzarei.github.io/filester-status)
+[**Visit our status website →**](https://howielyn.github.io/status-monitor/)
 
 ## 📄 License
 
