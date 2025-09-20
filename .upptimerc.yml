@@ -7,7 +7,7 @@ sites:
   - name: Google
     url: https://www.google.com
   - name: Ftp
-    url:   
+    url: ftp://100.115.46.7:1024  
 
 status-website:
   theme: light
