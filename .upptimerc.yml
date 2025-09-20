@@ -4,6 +4,10 @@ repo: status-monitor
 sites:
   - name: Catbox Litterbox
     url: https://litterbox.catbox.moe
+  - name: Google
+    url: https://www.google.com
+  - name: Ftp
+    url:   
 
 status-website:
   theme: light
