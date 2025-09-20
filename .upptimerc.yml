@@ -6,9 +6,8 @@ sites:
     url: https://litterbox.catbox.moe
   - name: Google
     url: https://www.google.com
-  - name: Ftp
-    url: ftp://100.115.46.7:1024  
-
+  - name: Mozilla Archive
+    url: https://archive.mozilla.org/
 status-website:
   theme: light
   css: "nav { display: none }"
