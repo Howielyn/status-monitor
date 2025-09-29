@@ -15,7 +15,7 @@ status-website:
   faviconSvg: https://raw.githubusercontent.com/Howielyn/status-monitor/3374493df75eb0c20697bd5b383036bb23682fe4/assets/favicon.svg
   baseUrl: /status-monitor
   logoUrl: https://raw.githubusercontent.com/Howielyn/status-monitor/master/assets/logo.webp
-  name: Filester
+  name: Monitor
 
 i18n:
   footer: Powered by Upptime.
