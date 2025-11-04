@@ -9,7 +9,7 @@ sites:
   - name: Amazon Music
     url: https://music.amazon.com
 status-website:
-  theme: light
+  theme: dark
   css: "nav { display: none }"
   favicon: 
   faviconSvg: 
