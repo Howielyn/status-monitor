@@ -2,8 +2,6 @@ owner: Howielyn
 repo: status-monitor
 
 sites:
-  - name: Catbox Litterbox
-    url: https://litterbox.catbox.moe
   - name: Google
     url: https://www.google.com
   - name: Mozilla Archive
@@ -13,10 +11,10 @@ sites:
 status-website:
   theme: light
   css: "nav { display: none }"
-  favicon: https://raw.githubusercontent.com/Howielyn/status-monitor/master/assets/favicon.png
-  faviconSvg: https://raw.githubusercontent.com/Howielyn/status-monitor/3374493df75eb0c20697bd5b383036bb23682fe4/assets/favicon.svg
+  favicon: 
+  faviconSvg: 
   baseUrl: /status-monitor
-  logoUrl: https://raw.githubusercontent.com/Howielyn/status-monitor/master/assets/logo.webp
+  logoUrl: 
   name: status-monitor
 
 i18n:
