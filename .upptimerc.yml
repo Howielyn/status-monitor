@@ -8,6 +8,8 @@ sites:
     url: https://archive.mozilla.org/
   - name: Amazon Music
     url: https://music.amazon.com
+  - name: Web Archive 
+    url: https://web.archive.org/
 status-website:
   theme: dark
   css: "nav { display: none }"
