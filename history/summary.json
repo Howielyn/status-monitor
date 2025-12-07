@@ -58,17 +58,17 @@
     "url": "https://web.archive.org/",
     "icon": "https://icons.duckduckgo.com/ip3/web.archive.org.ico",
     "slug": "web-archive",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1176,
-    "timeDay": 119,
-    "timeWeek": 1933,
-    "timeMonth": 1176,
-    "timeYear": 1176,
+    "time": 1388,
+    "timeDay": 2661,
+    "timeWeek": 2260,
+    "timeMonth": 1388,
+    "timeYear": 1388,
     "dailyMinutesDown": {}
   }
 ]
