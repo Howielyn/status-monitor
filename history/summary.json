@@ -4,18 +4,20 @@
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 129,
-    "timeDay": 179,
-    "timeWeek": 109,
-    "timeMonth": 171,
-    "timeYear": 129,
-    "dailyMinutesDown": {}
+    "uptimeDay": "95.52%",
+    "uptimeWeek": "99.36%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.99%",
+    "time": 130,
+    "timeDay": 177,
+    "timeWeek": 116,
+    "timeMonth": 172,
+    "timeYear": 130,
+    "dailyMinutesDown": {
+      "2025-12-14": 65
+    }
   },
   {
     "name": "Mozilla Archive",
