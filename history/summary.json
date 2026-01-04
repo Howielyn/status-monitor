@@ -61,7 +61,7 @@
     "url": "https://web.archive.org/",
     "icon": "https://icons.duckduckgo.com/ip3/web.archive.org.ico",
     "slug": "web-archive",
-    "status": "up",
+    "status": "down",
     "uptime": "99.14%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.12%",
@@ -73,6 +73,7 @@
     "timeMonth": 1251,
     "timeYear": 1271,
     "dailyMinutesDown": {
+      "2026-01-04": 0,
       "2026-01-01": 154,
       "2025-12-31": 42,
       "2025-12-29": 95,
