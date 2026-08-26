@@ -63,7 +63,7 @@
     "url": "https://web.archive.org/",
     "icon": "https://icons.duckduckgo.com/ip3/web.archive.org.ico",
     "slug": "web-archive",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
     "uptimeDay": "97.51%",
     "uptimeWeek": "99.64%",
@@ -95,7 +95,8 @@
       "2026-05-17": 82,
       "2026-08-16": 41,
       "2026-08-17": 80,
-      "2026-08-25": 36
+      "2026-08-25": 36,
+      "2026-08-26": 0
     }
   }
 ]
