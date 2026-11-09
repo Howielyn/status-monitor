@@ -10,6 +10,8 @@ sites:
     url: https://music.amazon.com
   - name: Web Archive 
     url: https://web.archive.org/
+  - name: Naver
+    url: https://www.naver.com/
 status-website:
   theme: dark
   css: "nav { display: none }"
